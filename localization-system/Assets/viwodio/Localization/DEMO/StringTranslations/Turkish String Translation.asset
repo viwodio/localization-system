@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ffe4d7baffa64240a7ffeb880ce30c5, type: 3}
+  m_Name: Turkish String Translation
+  m_EditorClassIdentifier: 
+  _languageData: {fileID: 11400000, guid: 7a697c3ee525c433fa39558832492a9d, type: 2}
+  _dictionary:
+    _baseList:
+    - _key: play
+      _value: Oyna
+    - _key: pause
+      _value: Duraklat
+    - _key: quit
+      _value: "\xC7\u0131k"

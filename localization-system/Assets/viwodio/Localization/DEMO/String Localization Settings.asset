@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e64917b85de49359a949121b622ea0, type: 3}
+  m_Name: String Localization Settings
+  m_EditorClassIdentifier: 
+  _languagePrefsKey: current_language
+  _translations:
+  - {fileID: 11400000, guid: 2b5579dc9274a47a19e0882520b0964b, type: 2}
+  - {fileID: 11400000, guid: 82a6e8e8c19454737a0b046cba5f0ce4, type: 2}
+  - {fileID: 11400000, guid: e498a087bd78b4ea491b22636e770f1a, type: 2}
+  _keys:
+  - play
+  - pause
+  - quit
+  _defaultLanguage: {fileID: 11400000, guid: 7a697c3ee525c433fa39558832492a9d, type: 2}
